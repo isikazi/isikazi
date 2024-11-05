@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isikazi
-- 🍌my good banana
+- 🍌 good banana
 
 <!---
 isikazi/isikazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
